@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A1h7N1K5GUus0kEpb4eruf+ckZ1HxP3WlMaF1Mvz38I=",
+  "Source": "TelephoneAPI",
+  "BasePath": "_content/TelephoneAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
